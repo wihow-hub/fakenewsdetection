@@ -12,9 +12,10 @@
 
 
 ## 方法和原理
+![image](https://user-images.githubusercontent.com/103358033/205213384-5c9a7f57-9bf6-4b6e-9320-9c250d689d1d.png)
 
-![image-20221202114309004](/Users/mac/Library/Application Support/typora-user-images/image-20221202114309004.png)
 
 ## 结果
 
-![image-20221202114336699](/Users/mac/Library/Application Support/typora-user-images/image-20221202114336699.png)
+![image](https://user-images.githubusercontent.com/103358033/205213402-c2bb5d8d-61ec-47d3-a795-d5cff247b424.png)
+
